@@ -1,0 +1,2 @@
+gemma2:9b - 7.1GB
+qwen2.5:7b - 4.8GB
