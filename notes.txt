@@ -1,2 +1,5 @@
 gemma2:9b - 7.1GB
+gemma3:4b - 
 qwen2.5:7b - 4.8GB
+hermes3:8b - 5.0GB
+mistral:7b - 4.8GB
