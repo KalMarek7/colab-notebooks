@@ -1,4 +1,4 @@
-# Ollama LLM Evaluation
+# Evaluating Lightweight LLMs for Job Description Parsing via Ollama
 
 This repository contains a Google Colab notebook used to benchmark and compare different LLMs via Ollama. The goal was to determine the most accurate model for extracting specific information from job listings given 6gb vram limit. 
 
